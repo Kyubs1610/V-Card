@@ -49,11 +49,13 @@ position:absolute;
 }
 
 .Central-page #mwa{
-height: 250px;
+height: 350px;
 width: 230px;
 z-index: 1;
 margin: -280px;
 box-shadow:8px 8px 10px 0 #9B4922;
+border: 2px double black;
+border-radius: 10px;
 
 
 
