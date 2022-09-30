@@ -56,11 +56,17 @@ margin: -280px;
 box-shadow:8px 8px 10px 0 #9B4922;
 border: 2px double black;
 border-radius: 10px;
-
-
-
-
 }
+
+.Central-page #leaf{
+  width: 300px;
+  position: absolute;
+ bottom:0;
+ right: 0;
+ 
+  }
+
+
 
 p{
     font-size: 18px;
